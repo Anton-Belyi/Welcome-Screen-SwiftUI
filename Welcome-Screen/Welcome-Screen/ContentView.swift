@@ -16,8 +16,9 @@ struct ContentView: View {
         }
         .tabViewStyle(.page)
         .frame(height: 750)
-        .background(Image("Blob-Light")
-                        .offset(x: 250, y: -100))
+//        .background(Image("CredCard")
+//                        .offset(x: 50, y: -25)
+//        )
     }
 }
 
